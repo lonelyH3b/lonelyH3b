@@ -51,28 +51,28 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ### 📚 Learning Focus
 
-- 📈 Master AI-powered decision systems in cybersecurity  
-- 🔄 Use Docker & NGINX to containerize and deploy backend APIs  
-- 🌱 Explore socket programming through anime-inspired projects  
-- 💬 Continue developing my GitHub and Discord bots
+- 🦝 Master AI-powered decision systems in cybersecurity  
+- 🧠 Use Docker & NGINX to containerize and deploy backend APIs  
+- 🌱 learning 日本語
+
 
 ---
 
 ### 🌸 Side Interests
 
-- 🎀 Mascot-driven development: I design projects around characters like `Sayuri`, `Luma`, and `Synthia`, who act as virtual helpers in my tools.
-- ☕ Urban gardening + simulation games.
-- 🎨 AI Art and image generation. Some of my arts on [DeviantArt](https://www.deviantart.com/rakin235)
+- 🎀 Bot Development + Simulation games.
+- ☕ Urban gardening.
+- 🎨 AI Art, Anime and Manga. Some of my arts on [DeviantArt](https://www.deviantart.com/rakin235)
 - 🐾 A quiet dream of a home filled with cats, coffee, and stories.
 
 ---
 
 ### 🌐 Social & Platforms
 
-- Codeforces – [rakinsp](https://codeforces.com/profile/rakinsp)  
-- Codeberg – [@rakin235](https://codeberg.org/rakin235)  
-- Stack Overflow – [@rakin235](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  
-- Bluesky – [@rakin235.bsky.social‬](https://bsky.app/profile/rakin235.bsky.social)  
+- Codeforces – [@RakinSP](https://codeforces.com/profile/rakinsp)  
+- Codeberg – [@lumii235](https://codeberg.org/lumii235)  
+- Stack Overflow – [@lony235](https://stackoverflow.com/users/16396049/lony235?tab=profile)  
+- Bluesky – [@lonelyh3b.bsky.social](https://bsky.app/profile/lonelyh3b.bsky.social)  
 <!-- - LeetCode – [rakin54](https://leetcode.com/rakin54/) -->
 
 <!-- - Kaggle – Coming soon -->
@@ -83,18 +83,16 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 <!-- Whether you're building tools, researching security, or just want to nerd out over anime-themed bots — I’m always up for conversations and collabs. -->
 
-I'm creating mascot-driven developer tools — bots and apps with anime-style personalities.
-Many mascots were initially prototyped with AI, but I'd love to bring them to life with real collaborators!
+<!-- I'm creating mascot-driven developer tools — bots and apps with anime-style personalities.
+Many mascots were initially prototyped with AI, but I'd love to bring them to life with real collaborators! -->
 
-🧩 Looking for:
+🧩 Looking for projects to contribute:
 
-  -  🎨 Artists for character designs
-
-  -  💻 Developers into bots & backend
+  -  💻 Backend development
 
   -  ✍️ Writers for dialog and style
 
-[Projects Include](projects.md)
+<!-- [Projects Include](projects.md) -->
 
 📩 You can reach me:
 - via [Discord](https://discord.com/users/rakin235)
