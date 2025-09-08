@@ -10,17 +10,6 @@
 
 I'm a *Web Developer* with a strong foundation in *Python*, passionate about building powerful backend systems and pushing the limits of what's possible with AI, automation, and creative coding. This space is a reflection of my learning journey — a mix of personal projects, research-driven ideas, and experimental code. You'll also notice a touch of my personality in the form of anime-inspired tech creations, blending art and logic in fun, unconventional ways. Whether you're here to collaborate, browse, or just curious, I hope you'll find something interesting in my work!
 
----
-
-### 🚀 Highlights
-
-- 🤖 **Bots & Automation:** From Discord bots like `Synthia` to GitHub automation like `LumaBot` — I build tools that interact, thank, and automate with charm.
-
-- 🕸️ **Web Dev:** Functional and dynamic APIs built with Django, Flask, and FastAPI — always backend-first, always minimal.
-
-- 🧪 **AI Research:** A research initiative combining LSTM + CNN models to analyze imbalanced data and detect advanced persistent threats.
-
-
 
 ---
 
@@ -54,16 +43,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 - 🦝 Master AI-powered decision systems in cybersecurity  
 - 🧠 Use Docker & NGINX to containerize and deploy backend APIs  
 - 🌱 learning 日本語
-
-
----
-
-### 🌸 Side Interests
-
-- 🎀 Bot Development + Simulation games.
-- ☕ Urban gardening.
-- 🎨 AI Art, Anime and Manga. Some of my arts on [DeviantArt](https://www.deviantart.com/rakin235)
-- 🐾 A quiet dream of a home filled with cats, coffee, and stories.
+- 🌻 Urban gerdening
 
 ---
 
@@ -90,7 +70,7 @@ Many mascots were initially prototyped with AI, but I'd love to bring them to li
 
   -  💻 Backend development
 
-  -  ✍️ Writers for dialog and style
+  -  ✍️ Writing tech blogs and articles
 
 <!-- [Projects Include](projects.md) -->
 
