@@ -43,7 +43,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 - 🦝 Master AI-powered decision systems in cybersecurity  
 - 🧠 Use Docker & NGINX to containerize and deploy backend APIs  
 - 🌱 learning 日本語
-- 🌻 Urban gerdening
+- 🌻 Urban gardening
 
 ---
 
@@ -93,7 +93,7 @@ Many mascots were initially prototyped with AI, but I'd love to bring them to li
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=lonelyH3b&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
