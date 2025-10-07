@@ -12,6 +12,7 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 
 
 ---
+<img src="Banners/catinate.png" align="right">
 
 ### 🔧 Tech Toolbox
 
