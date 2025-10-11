@@ -50,7 +50,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ### 🌐 Social & Platforms
 
-<img src="Banners/anya.png" height="200" align="right">
+<img src="Banners/anya_play.png" height="200" align="right">
 
 
 - Codeforces – [@RakinSP](https://codeforces.com/profile/rakinsp)  
