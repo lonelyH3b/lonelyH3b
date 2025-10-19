@@ -48,9 +48,11 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ---
 
+<img src="Banners/social.png" height="120" align="right">
+
 ### 🌐 Social & Platforms
 
-<img src="Banners/anya_play.png" height="200" align="right">
+
 
 
 - Codeforces – [@RakinSP](https://codeforces.com/profile/rakinsp)  
@@ -69,6 +71,8 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 <!-- I'm creating mascot-driven developer tools — bots and apps with anime-style personalities.
 Many mascots were initially prototyped with AI, but I'd love to bring them to life with real collaborators! -->
+
+<img src="Banners/anya_play.png" height="150" align="right">
 
 🧩 Looking for projects to contribute:
 
