@@ -12,7 +12,7 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 
 
 ---
-<img src="Banners/catina.png" height="300" align="right">
+<!-- <img src="Banners/catina.png" height="300" align="right"> -->
 
 ### 🔧 Tech Toolbox
 
@@ -48,7 +48,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ---
 
-<img src="Banners/social.png" height="120" align="right">
+<!-- <img src="Banners/social.png" height="120" align="right"> -->
 
 ### 🌐 Social & Platforms
 
@@ -72,7 +72,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 <!-- I'm creating mascot-driven developer tools — bots and apps with anime-style personalities.
 Many mascots were initially prototyped with AI, but I'd love to bring them to life with real collaborators! -->
 
-<img src="Banners/anya_play.png" height="150" align="right">
+<!-- <img src="Banners/anya_play.png" height="150" align="right"> -->
 
 🧩 Looking for projects to contribute:
 
