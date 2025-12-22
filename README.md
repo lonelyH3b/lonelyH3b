@@ -1,12 +1,14 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-![](Banners/banner.png)
+<!-- ![](Banners/banner.png) -->
 
 <!-- 👨‍💻 -->
 
 <!-- Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring the boundaries of backend, AI, and automation. Here you'll find personal projects, research ideas, experiments — and a few anime-inspired tech creations that reflect how I learn and build. -->
 
 **Hello and welcome to my GitHub profile!**
+
+[Codeforces](https://codeforces.com/profile/rakinsp)  -- [Stack Overflow](https://stackoverflow.com/users/16396049/lony235?tab=profile) -- [Discord](https://discord.com/users/rakin235)  --  [Substack](https://substack.com/@1234176912/notes)  --  [Bluesky](https://bsky.app/profile/lonelyh3b.bsky.social)
 
 I'm a *Web Developer* with a strong foundation in *Python*, passionate about building powerful backend systems and pushing the limits of what's possible with AI, automation, and creative coding. This space is a reflection of my learning journey — a mix of personal projects, research-driven ideas, and experimental code. You'll also notice a touch of my personality in the form of anime-inspired tech creations, blending art and logic in fun, unconventional ways. Whether you're here to collaborate, browse, or just curious, I hope you'll find something interesting in my work!
 
@@ -37,7 +39,7 @@ A toolbox of CLI/utility-based scrapers for collecting structured data from vari
 
 Full-stack backend APIs using Django REST Framework, Flask microservices, and lightweight UI components.
 
----
+<!---
 
 ### 📚 Learning Focus
 
@@ -46,24 +48,22 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 - 🌱 learning 日本語
 - 🌻 Urban gardening
 
----
+--->
 
 <!-- <img src="Banners/social.png" height="120" align="right"> -->
-
+<!--
 ### 🌐 Social & Platforms
 
 
 
 
-- Codeforces – [@RakinSP](https://codeforces.com/profile/rakinsp)  
-- Codeberg – [@lumii235](https://codeberg.org/lumii235)  
-- Stack Overflow – [@lony235](https://stackoverflow.com/users/16396049/lony235?tab=profile)  
-- Bluesky – [@lonelyh3b.bsky.social](https://bsky.app/profile/lonelyh3b.bsky.social)  
+- Codeberg – [@lumii235](https://codeberg.org/lumii235)   -->
+
 <!-- - LeetCode – [rakin54](https://leetcode.com/rakin54/) -->
 
 <!-- - Kaggle – Coming soon -->
 
----
+<!---
 
 ### 🤝 Let’s Collaborate
 
@@ -72,7 +72,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 <!-- I'm creating mascot-driven developer tools — bots and apps with anime-style personalities.
 Many mascots were initially prototyped with AI, but I'd love to bring them to life with real collaborators! -->
 
-<!-- <img src="Banners/anya_play.png" height="150" align="right"> -->
+<!-- <img src="Banners/anya_play.png" height="150" align="right"> 
 
 🧩 Looking for projects to contribute:
 
@@ -80,14 +80,14 @@ Many mascots were initially prototyped with AI, but I'd love to bring them to li
 
   -  ✍️ Writing tech blogs and articles
 
-<!-- [Projects Include](projects.md) -->
+<!-- [Projects Include](projects.md) 
 
 📩 You can reach me:
-- via [Discord](https://discord.com/users/rakin235)
+- via 
 - or open an [issue on GitHub](https://github.com/rakinplaban/rakinplaban/issues) if you'd like to team up!
 
+--->
 ---
-
 ### 💫 GitHub Stats
 
 <img align="right" src="https://animemagic.vercel.app/anime-image?t=123456" height="200">
