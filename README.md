@@ -30,7 +30,7 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 | Project | Preview |
 |--------|---------|
 | **APT Detection using Deep Learning**  <br>Cybersecurity research project focused on detecting Advanced Persistent Threats (APT) using deep learning models. Includes data preprocessing, feature engineering, and model evaluation. <br><br> **Tech:** Python, Pandas, PyTorch | ![APT Detection](images/apt_detection.png) |
-||![APT Detection](images/apt_detection.png)|
+|**Discord Bot for AI News Scrapper** <br> Discord bot that blends research news from Hugging Face, arXiv, and MarkTechPost. It keeps the server up to date with the latest in AI and tech — a smart and social sidekick for your community. <br><br> **Tech:** Python, Flask, discord.py, Docker, PostgreSQL |![APT Detection](images/apt_detection.png)|
 | **Django Dynamic Web App**  <br> Converted a static Django application into a fully database-driven system with dynamic content rendering and admin integration.  <br><br> **Tech:** Django, SQLite, HTML/CSS | ![Django App](images/django_app.png) |
 | **Data Cleaning & Analysis Toolkit**  <br> Python scripts for handling corrupted datasets, missing values, and large CSV files, with exploratory data analysis support.  <br><br> **Tech:** Python, Pandas, NumPy | ![Data Cleaning](images/data_cleaning.png) |
 
