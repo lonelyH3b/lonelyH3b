@@ -27,19 +27,6 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 
 ### 📦 Featured Projects
 
-**🔍 APT Detection System**
-
-LSTM + CNN hybrid model for detecting stealthy cyber threats. Tackles challenges like imbalanced data and long-term dependencies.
-
-**📤 Python Web Scrapers**
-
-A toolbox of CLI/utility-based scrapers for collecting structured data from various sites.
-
-**🌐 Dynamic Web Apps**
-
-Full-stack backend APIs using Django REST Framework, Flask microservices, and lightweight UI components.
-
-
 | Project | Preview |
 |--------|---------|
 | **APT Detection using Deep Learning**  <br>Cybersecurity research project focused on detecting Advanced Persistent Threats (APT) using deep learning models. Includes data preprocessing, feature engineering, and model evaluation. <br><br> **Tech:** Python, Pandas, PyTorch | ![APT Detection](images/apt_detection.png) |
