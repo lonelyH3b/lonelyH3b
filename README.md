@@ -27,7 +27,7 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 
 ### 📦 Featured Projects
 
-| Project | Preview |
+| Project | Illustrative Preview |
 |--------|---------|
 | **APT Detection using Deep Learning**  <br>Cybersecurity research project focused on detecting Advanced Persistent Threats (APT) using deep learning models. Includes data preprocessing, feature engineering, and model evaluation. <br><br> **Tech:** Python, Pandas, PyTorch | <img src="Banners/aptdetection.png" alt="APT detection banner" width='500'> |
 |**Discord Bot for AI News Scrapper** <br> Discord bot that blends research news from Hugging Face, arXiv, and MarkTechPost. It keeps the server up to date with the latest in AI and tech — a smart and social sidekick for your community. <br><br> **Tech:** Python, Flask, discord.py, Docker, PostgreSQL <br> Repo: https://github.com/lonelyH3b/Discord_AI_News_Bot|<img src="https://raw.githubusercontent.com/lonelyH3b/Discord_AI_News_Bot/refs/heads/master/media/Synthia-%20Discord%20Bot.png" width='500'>|
