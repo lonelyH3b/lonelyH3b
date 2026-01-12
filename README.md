@@ -19,7 +19,7 @@ I'm a *Web Developer* with a strong foundation in *Python*, passionate about bui
 ### 🔧 Tech Toolbox
 
 - **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** Django, Flask, FastAPI  
+- **Frameworks:** Django, Flask, FastAPI, Bootstrap  
 - **Databases:** PostgreSQL, SQLite  
 - **Skills:** REST APIs, Web Scraping, Bot Development, Docker (Learning)
 
