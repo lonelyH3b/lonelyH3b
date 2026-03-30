@@ -1,5 +1,5 @@
 beautifulsoup4==4.13.3
 bs4==0.0.2
-chardet==5.2.0
+chardet==7.4.0.post2
 Markdown==3.7
 soupsieve==2.6
