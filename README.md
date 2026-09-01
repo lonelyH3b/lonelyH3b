@@ -8,7 +8,7 @@
 
 **Hello and welcome to my GitHub profile!**
 
-[Codeforces](https://codeforces.com/profile/rakinsp)  -- [Stack Overflow](https://stackoverflow.com/users/16396049/lony235?tab=profile) -- [Discord](https://discord.com/users/rakin235)  --  [Bluesky](https://bsky.app/profile/lonelyh3b.bsky.social)
+[Codeforces](https://codeforces.com/profile/rakinsp)  -- [Stack Overflow](https://stackoverflow.com/users/16396049/lony235?tab=profile) -- [Discord](https://discord.com/users/rakin235)  --  [Bluesky](https://bsky.app/profile/lonelyh3b.bsky.social) -- [FigShare](https://figshare.com/authors/Rakin_Shahriar_Plaban/24672163)
 
 I'm a *Web Developer* with a strong foundation in *Python*, passionate about building powerful backend systems and pushing the limits of what's possible with AI, automation, and creative coding. This space is a reflection of my learning journey — a mix of personal projects, research-driven ideas, and experimental code. You'll also notice a touch of my personality in the form of anime-inspired tech creations, blending art and logic in fun, unconventional ways. Whether you're here to collaborate, browse, or just curious, I hope you'll find something interesting in my work!
 
