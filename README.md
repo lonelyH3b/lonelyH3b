@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![](BannerApplied_AI_Systems_in_Space.png)
 
 # Rakin Shahriar Plaban — Backend & Automation Engineer
 
