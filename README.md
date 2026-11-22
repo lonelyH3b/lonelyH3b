@@ -1,4 +1,4 @@
-![](BannerApplied_AI_Systems_in_Space.png)
+![](Banners/Applied_AI_Systems_in_Space.png)
 
 # Rakin Shahriar Plaban — Backend & Automation Engineer
 
