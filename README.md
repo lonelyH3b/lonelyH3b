@@ -27,7 +27,7 @@ I design and ship backend services, automate workflows between tools and APIs, a
 | Project | What it does | Stack |
 |---|---|---|
 | [**discord_ai_news_bot**](https://github.com/lonelyH3b/discord_ai_news_bot) | "Synthia", a Discord bot that pulls AI research news from Hugging Face, arXiv, and MarkTechPost and shares it with the community. | Python, Discord API |
-| [**Network_Project**](https://github.com/lonelyH3b/Network_Project) | Deployed web application, live on Render. [Live demo](https://network-project-5q7j.onrender.com/) | Python, Django |
+| [**Network_Project**](https://github.com/lonelyH3b/binomial_nomenclature) | Dictionary-style web app for finding scientific and common names of plants and animals, with a custom admin panel. Deployed web application, live on Render. [Live demo](https://binomial-nomenclature.onrender.com/) | Python, Django, PostgreSQL, JavaScript |
 | [**Personal_notes**](https://github.com/lonelyH3b/Personal_notes) | Public knowledge base of debugging write-ups on AI, DevOps, and backend topics: what happened, why, and how it was fixed. | Markdown |
 
 ---
